@@ -29,18 +29,8 @@
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Telegram**: [@yourtelegram](https://t.me/yourtelegram)
-
----
-
-## 🌟 Featured Projects
-
-### Project 1: Awesome Project
-![Awesome Project](https://github-readme-stats.vercel.app/api/pin/?username=themickart&repo=awesome-project&theme=graywhite)
-
-### Project 2: Cool Tool
-![Cool Tool](https://github-readme-stats.vercel.app/api/pin/?username=themickart&repo=cool-tool&theme=graywhite)
+- **Email**: [themickart@gmail.com](mailto:themickart@gmail.com)
+- **Telegram**: [@theharizma](https://t.me/theharizma)
 
 ---
 
