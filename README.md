@@ -29,7 +29,7 @@
 
 ## 📫 Get in Touch
 
-- **Email**: [themickart@gmail.com](mailto:themickart@gmail.com)
+- **Email**: [themickartpr@gmail.com](mailto:themickartpr@gmail.com)
 - **Telegram**: [@theharizma](https://t.me/theharizma)
 
 ---
