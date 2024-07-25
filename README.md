@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Mikee%20Miura%20&width=1000&height=400)](https://github.com/themickart)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Mikee%20Miura%20&width=1000&height=200)](https://github.com/themickart)
 
 # Welcome to my GitHub profile!
 
